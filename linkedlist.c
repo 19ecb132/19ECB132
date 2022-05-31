@@ -94,3 +94,11 @@ int main() {
   }
     
 }
+/****  Linked List with 3 nodes***
+*** Traversing the elements in the  Linked List***
+0
+1
+*/
+output:
+
+*/
