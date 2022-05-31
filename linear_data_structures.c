@@ -133,6 +133,7 @@ int main(void) {
   }
 }
 <<<<<<< HEAD:linear_data_structures.c
+<<<<<<< HEAD:linear_data_structures.c
 /*
 output:
 /*
@@ -160,5 +161,7 @@ Popped element is: 3
 */
 
 */
+=======
+>>>>>>> origin/main:linear_data_structures.c
 =======
 >>>>>>> origin/main:linear_data_structures.c
