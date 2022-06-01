@@ -160,8 +160,4 @@ Popped element is: 3
  Choose an option: 4
 */
 
-*/
-=======
->>>>>>> origin/main:linear_data_structures.c
-=======
->>>>>>> origin/main:linear_data_structures.c
+
