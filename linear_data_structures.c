@@ -132,10 +132,7 @@ int main(void) {
     
   }
 }
-<<<<<<< HEAD:linear_data_structures.c
-<<<<<<< HEAD:linear_data_structures.c
-/*
-output:
+
 /*
 output:
 1. Stack using Array
